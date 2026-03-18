@@ -1,3 +1,3 @@
 console.log("bonjour")
 
-let veve = []
+let veve = [12]
